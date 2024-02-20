@@ -1,5 +1,7 @@
-# restro
-Restaurant application website
+# Restaurant Menu Application
 
-Welcome to my restaurant!!
+Food Menu with Details
 
+This is tech food company which displays food items with price
+
+edited 
